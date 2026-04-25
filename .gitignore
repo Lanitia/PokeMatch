@@ -3,6 +3,9 @@ build/
 note.md
 src/scripts/
 
+.idea/
+.metadata
+
 # FVM Version Cache
 .fvm/
 .fvmrc
