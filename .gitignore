@@ -1,8 +1,11 @@
 .dart_tool/
 build/
 note.md
-src/tmp/
+src/scripts/
 
 # FVM Version Cache
 .fvm/
 .fvmrc
+
+# database
+data/

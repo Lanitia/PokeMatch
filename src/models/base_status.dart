@@ -1,39 +1,39 @@
 class BaseStats {
-  final int h;
-  final int a;
-  final int b;
-  final int c;
-  final int d;
-  final int s;
+  final int H;
+  final int A;
+  final int B;
+  final int C;
+  final int D;
+  final int S;
 
   const BaseStats({
-    required this.h,
-    required this.a,
-    required this.b,
-    required this.c,
-    required this.d,
-    required this.s,
+    required this.H,
+    required this.A,
+    required this.B,
+    required this.C,
+    required this.D,
+    required this.S,
   });
 
   factory BaseStats.fromJson(Map<String, dynamic> json) {
     return BaseStats(
-      h: json['h'],
-      a: json['a'],
-      b: json['b'],
-      c: json['c'],
-      d: json['d'],
-      s: json['s'],
+      H: json['H'],
+      A: json['A'],
+      B: json['B'],
+      C: json['C'],
+      D: json['D'],
+      S: json['S'],
     );
   }
 
   Map<String, dynamic> toJson() {
     return {
-      'h': h,
-      'a': a,
-      'b': b,
-      'c': c,
-      'd': d,
-      's': s,
+      'H': H,
+      'A': A,
+      'B': B,
+      'C': C,
+      'D': D,
+      'S': S,
     };
   }
 }
