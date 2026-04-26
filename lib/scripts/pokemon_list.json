@@ -1,0 +1,1472 @@
+[
+  {
+    "name": "フシギバナ",
+    "isMega": false,
+    "single_rank": 26
+  },
+  {
+    "name": "リザードン",
+    "isMega": false,
+    "single_rank": 3
+  },
+  {
+    "name": "カメックス",
+    "isMega": false,
+    "single_rank": 44
+  },
+  {
+    "name": "スピアー",
+    "isMega": false,
+    "single_rank": 88
+  },
+  {
+    "name": "ピジョット",
+    "isMega": false,
+    "single_rank": 131
+  },
+  {
+    "name": "アーボック",
+    "isMega": false,
+    "single_rank": 190
+  },
+  {
+    "name": "ピカチュウ",
+    "isMega": false,
+    "single_rank": 150
+  },
+  {
+    "name": "ライチュウ",
+    "isMega": false,
+    "single_rank": 178
+  },
+  {
+    "name": "ピクシー",
+    "isMega": false,
+    "single_rank": 31
+  },
+  {
+    "name": "キュウコン",
+    "isMega": false,
+    "single_rank": 53
+  },
+  {
+    "name": "ウインディ",
+    "isMega": false,
+    "single_rank": 75
+  },
+  {
+    "name": "フーディン",
+    "isMega": false,
+    "single_rank": 93
+  },
+  {
+    "name": "カイリキー",
+    "isMega": false,
+    "single_rank": 117
+  },
+  {
+    "name": "ウツボット",
+    "isMega": false,
+    "single_rank": 45
+  },
+  {
+    "name": "ヤドラン",
+    "isMega": false,
+    "single_rank": 79
+  },
+  {
+    "name": "ゲンガー",
+    "isMega": false,
+    "single_rank": 6
+  },
+  {
+    "name": "ガルーラ",
+    "isMega": false,
+    "single_rank": 25
+  },
+  {
+    "name": "スターミー",
+    "isMega": false,
+    "single_rank": 33
+  },
+  {
+    "name": "カイロス",
+    "isMega": false,
+    "single_rank": 109
+  },
+  {
+    "name": "ケンタロス",
+    "isMega": false,
+    "single_rank": 110
+  },
+  {
+    "name": "ギャラドス",
+    "isMega": false,
+    "single_rank": 24
+  },
+  {
+    "name": "メタモン",
+    "isMega": false,
+    "single_rank": 73
+  },
+  {
+    "name": "シャワーズ",
+    "isMega": false,
+    "single_rank": 91
+  },
+  {
+    "name": "サンダース",
+    "isMega": false,
+    "single_rank": 115
+  },
+  {
+    "name": "ブースター",
+    "isMega": false,
+    "single_rank": 174
+  },
+  {
+    "name": "プテラ",
+    "isMega": false,
+    "single_rank": 78
+  },
+  {
+    "name": "カビゴン",
+    "isMega": false,
+    "single_rank": 43
+  },
+  {
+    "name": "カイリュー",
+    "isMega": false,
+    "single_rank": 11
+  },
+  {
+    "name": "メガニウム",
+    "isMega": false,
+    "single_rank": 22
+  },
+  {
+    "name": "バクフーン",
+    "isMega": false,
+    "single_rank": 97
+  },
+  {
+    "name": "オーダイル",
+    "isMega": false,
+    "single_rank": 81
+  },
+  {
+    "name": "アリアドス",
+    "isMega": false,
+    "single_rank": 148
+  },
+  {
+    "name": "デンリュウ",
+    "isMega": false,
+    "single_rank": 121
+  },
+  {
+    "name": "マリルリ",
+    "isMega": false,
+    "single_rank": 37
+  },
+  {
+    "name": "ニョロトノ",
+    "isMega": false,
+    "single_rank": 130
+  },
+  {
+    "name": "エーフィ",
+    "isMega": false,
+    "single_rank": 83
+  },
+  {
+    "name": "ブラッキー",
+    "isMega": false,
+    "single_rank": 20
+  },
+  {
+    "name": "ヤドキング",
+    "isMega": false,
+    "single_rank": 66
+  },
+  {
+    "name": "フォレトス",
+    "isMega": false,
+    "single_rank": 123
+  },
+  {
+    "name": "ハガネール",
+    "isMega": false,
+    "single_rank": 127
+  },
+  {
+    "name": "ハッサム",
+    "isMega": false,
+    "single_rank": 8
+  },
+  {
+    "name": "ヘラクロス",
+    "isMega": false,
+    "single_rank": 74
+  },
+  {
+    "name": "エアームド",
+    "isMega": false,
+    "single_rank": 49
+  },
+  {
+    "name": "ヘルガー",
+    "isMega": false,
+    "single_rank": 157
+  },
+  {
+    "name": "バンギラス",
+    "isMega": false,
+    "single_rank": 32
+  },
+  {
+    "name": "ペリッパー",
+    "isMega": false,
+    "single_rank": 40
+  },
+  {
+    "name": "サーナイト",
+    "isMega": false,
+    "single_rank": 50
+  },
+  {
+    "name": "ヤミラミ",
+    "isMega": false,
+    "single_rank": 86
+  },
+  {
+    "name": "ボスゴドラ",
+    "isMega": false,
+    "single_rank": 82
+  },
+  {
+    "name": "チャーレム",
+    "isMega": false,
+    "single_rank": 128
+  },
+  {
+    "name": "ライボルト",
+    "isMega": false,
+    "single_rank": 108
+  },
+  {
+    "name": "サメハダー",
+    "isMega": false,
+    "single_rank": 90
+  },
+  {
+    "name": "バクーダ",
+    "isMega": false,
+    "single_rank": 171
+  },
+  {
+    "name": "コータス",
+    "isMega": false,
+    "single_rank": 125
+  },
+  {
+    "name": "チルタリス",
+    "isMega": false,
+    "single_rank": 111
+  },
+  {
+    "name": "ミロカロス",
+    "isMega": false,
+    "single_rank": 69
+  },
+  {
+    "name": "ポワルン",
+    "isMega": false,
+    "single_rank": 211,
+    "form": "ポワルンのすがた"
+  },
+  {
+    "name": "ジュペッタ",
+    "isMega": false,
+    "single_rank": 67
+  },
+  {
+    "name": "チリーン",
+    "isMega": false,
+    "single_rank": 98
+  },
+  {
+    "name": "アブソル",
+    "isMega": false,
+    "single_rank": 141
+  },
+  {
+    "name": "オニゴーリ",
+    "isMega": false,
+    "single_rank": 139
+  },
+  {
+    "name": "ドダイトス",
+    "isMega": false,
+    "single_rank": 120
+  },
+  {
+    "name": "ゴウカザル",
+    "isMega": false,
+    "single_rank": 94
+  },
+  {
+    "name": "エンペルト",
+    "isMega": false,
+    "single_rank": 46
+  },
+  {
+    "name": "レントラー",
+    "isMega": false,
+    "single_rank": 170
+  },
+  {
+    "name": "ロズレイド",
+    "isMega": false,
+    "single_rank": 151
+  },
+  {
+    "name": "ラムパルド",
+    "isMega": false,
+    "single_rank": 185
+  },
+  {
+    "name": "トリデプス",
+    "isMega": false,
+    "single_rank": 176
+  },
+  {
+    "name": "ミミロップ",
+    "isMega": false,
+    "single_rank": 13
+  },
+  {
+    "name": "ミカルゲ",
+    "isMega": false,
+    "single_rank": 153
+  },
+  {
+    "name": "ガブリアス",
+    "isMega": false,
+    "single_rank": 1
+  },
+  {
+    "name": "ルカリオ",
+    "isMega": false,
+    "single_rank": 21
+  },
+  {
+    "name": "カバルドン",
+    "isMega": false,
+    "single_rank": 7
+  },
+  {
+    "name": "ドクロッグ",
+    "isMega": false,
+    "single_rank": 165
+  },
+  {
+    "name": "ユキノオー",
+    "isMega": false,
+    "single_rank": 99
+  },
+  {
+    "name": "マニューラ",
+    "isMega": false,
+    "single_rank": 92
+  },
+  {
+    "name": "ドサイドン",
+    "isMega": false,
+    "single_rank": 146
+  },
+  {
+    "name": "リーフィア",
+    "isMega": false,
+    "single_rank": 172
+  },
+  {
+    "name": "グレイシア",
+    "isMega": false,
+    "single_rank": 122
+  },
+  {
+    "name": "グライオン",
+    "isMega": false,
+    "single_rank": 116
+  },
+  {
+    "name": "マンムー",
+    "isMega": false,
+    "single_rank": 41
+  },
+  {
+    "name": "エルレイド",
+    "isMega": false,
+    "single_rank": 58
+  },
+  {
+    "name": "ユキメノコ",
+    "isMega": false,
+    "single_rank": 51
+  },
+  {
+    "name": "ロトム",
+    "isMega": false,
+    "single_rank": 16,
+    "form": "ロトムのすがた"
+  },
+  {
+    "name": "ジャローダ",
+    "isMega": false,
+    "single_rank": 63
+  },
+  {
+    "name": "エンブオー",
+    "isMega": false,
+    "single_rank": 101
+  },
+  {
+    "name": "ダイケンキ",
+    "isMega": false,
+    "single_rank": 65
+  },
+  {
+    "name": "ミルホッグ",
+    "isMega": false,
+    "single_rank": 212
+  },
+  {
+    "name": "レパルダス",
+    "isMega": false,
+    "single_rank": 195
+  },
+  {
+    "name": "ヤナッキー",
+    "isMega": false,
+    "single_rank": 208
+  },
+  {
+    "name": "バオッキー",
+    "isMega": false,
+    "single_rank": 206
+  },
+  {
+    "name": "ヒヤッキー",
+    "isMega": false,
+    "single_rank": 203
+  },
+  {
+    "name": "ドリュウズ",
+    "isMega": false,
+    "single_rank": 47
+  },
+  {
+    "name": "タブンネ",
+    "isMega": false,
+    "single_rank": 192
+  },
+  {
+    "name": "ローブシン",
+    "isMega": false,
+    "single_rank": 64
+  },
+  {
+    "name": "エルフーン",
+    "isMega": false,
+    "single_rank": 57
+  },
+  {
+    "name": "ワルビアル",
+    "isMega": false,
+    "single_rank": 129
+  },
+  {
+    "name": "デスカーン",
+    "isMega": false,
+    "single_rank": 135
+  },
+  {
+    "name": "ダストダス",
+    "isMega": false,
+    "single_rank": 198
+  },
+  {
+    "name": "ゾロアーク",
+    "isMega": false,
+    "single_rank": 61
+  },
+  {
+    "name": "ランクルス",
+    "isMega": false,
+    "single_rank": 156
+  },
+  {
+    "name": "バイバニラ",
+    "isMega": false,
+    "single_rank": 143
+  },
+  {
+    "name": "エモンガ",
+    "isMega": false,
+    "single_rank": 179
+  },
+  {
+    "name": "シャンデラ",
+    "isMega": false,
+    "single_rank": 71
+  },
+  {
+    "name": "ツンベアー",
+    "isMega": false,
+    "single_rank": 189
+  },
+  {
+    "name": "マッギョ",
+    "isMega": false,
+    "single_rank": 166
+  },
+  {
+    "name": "ゴルーグ",
+    "isMega": false,
+    "single_rank": 152
+  },
+  {
+    "name": "サザンドラ",
+    "isMega": false,
+    "single_rank": 17
+  },
+  {
+    "name": "ウルガモス",
+    "isMega": false,
+    "single_rank": 30
+  },
+  {
+    "name": "ブリガロン",
+    "isMega": false,
+    "single_rank": 72
+  },
+  {
+    "name": "マフォクシー",
+    "isMega": false,
+    "single_rank": 19
+  },
+  {
+    "name": "ゲッコウガ",
+    "isMega": false,
+    "single_rank": 23
+  },
+  {
+    "name": "ホルード",
+    "isMega": false,
+    "single_rank": 48
+  },
+  {
+    "name": "ファイアロー",
+    "isMega": false,
+    "single_rank": 104
+  },
+  {
+    "name": "ビビヨン",
+    "isMega": false,
+    "single_rank": 107,
+    "form": "はなぞののもよう"
+  },
+  {
+    "name": "フラージェス",
+    "isMega": false,
+    "single_rank": 180,
+    "form": "あかいはな"
+  },
+  {
+    "name": "ゴロンダ",
+    "isMega": false,
+    "single_rank": 173
+  },
+  {
+    "name": "トリミアン",
+    "isMega": false,
+    "single_rank": 193,
+    "form": "やせいのすがた"
+  },
+  {
+    "name": "ニャオニクス",
+    "isMega": false,
+    "single_rank": 161,
+    "form": "オスのすがた"
+  },
+  {
+    "name": "ギルガルド",
+    "isMega": false,
+    "single_rank": 9,
+    "form": "シールドフォルム"
+  },
+  {
+    "name": "フレフワン",
+    "isMega": false,
+    "single_rank": 201
+  },
+  {
+    "name": "ペロリーム",
+    "isMega": false,
+    "single_rank": 136
+  },
+  {
+    "name": "ブロスター",
+    "isMega": false,
+    "single_rank": 145
+  },
+  {
+    "name": "エレザード",
+    "isMega": false,
+    "single_rank": 102
+  },
+  {
+    "name": "ガチゴラス",
+    "isMega": false,
+    "single_rank": 168
+  },
+  {
+    "name": "アマルルガ",
+    "isMega": false,
+    "single_rank": 167
+  },
+  {
+    "name": "ニンフィア",
+    "isMega": false,
+    "single_rank": 36
+  },
+  {
+    "name": "ルチャブル",
+    "isMega": false,
+    "single_rank": 89
+  },
+  {
+    "name": "デデンネ",
+    "isMega": false,
+    "single_rank": 187
+  },
+  {
+    "name": "ヌメルゴン",
+    "isMega": false,
+    "single_rank": 54
+  },
+  {
+    "name": "クレッフィ",
+    "isMega": false,
+    "single_rank": 149
+  },
+  {
+    "name": "オーロット",
+    "isMega": false,
+    "single_rank": 169
+  },
+  {
+    "name": "パンプジン",
+    "isMega": false,
+    "single_rank": 182,
+    "form": "ふつうのサイズ"
+  },
+  {
+    "name": "クレベース",
+    "isMega": false,
+    "single_rank": 137
+  },
+  {
+    "name": "オンバーン",
+    "isMega": false,
+    "single_rank": 138
+  },
+  {
+    "name": "ジュナイパー",
+    "isMega": false,
+    "single_rank": 114
+  },
+  {
+    "name": "ガオガエン",
+    "isMega": false,
+    "single_rank": 59
+  },
+  {
+    "name": "アシレーヌ",
+    "isMega": false,
+    "single_rank": 2
+  },
+  {
+    "name": "ドデカバシ",
+    "isMega": false,
+    "single_rank": 118
+  },
+  {
+    "name": "ケケンカニ",
+    "isMega": false,
+    "single_rank": 87
+  },
+  {
+    "name": "ルガルガン",
+    "isMega": false,
+    "single_rank": 103,
+    "form": "まひるのすがた"
+  },
+  {
+    "name": "ドヒドイデ",
+    "isMega": false,
+    "single_rank": 35
+  },
+  {
+    "name": "バンバドロ",
+    "isMega": false,
+    "single_rank": 112
+  },
+  {
+    "name": "オニシズクモ",
+    "isMega": false,
+    "single_rank": 60
+  },
+  {
+    "name": "エンニュート",
+    "isMega": false,
+    "single_rank": 119
+  },
+  {
+    "name": "アマージョ",
+    "isMega": false,
+    "single_rank": 133
+  },
+  {
+    "name": "ヤレユータン",
+    "isMega": false,
+    "single_rank": 202
+  },
+  {
+    "name": "ナゲツケサル",
+    "isMega": false,
+    "single_rank": 204
+  },
+  {
+    "name": "ミミッキュ",
+    "isMega": false,
+    "single_rank": 14,
+    "form": "ばけたすがた"
+  },
+  {
+    "name": "ジジーロン",
+    "isMega": false,
+    "single_rank": 134
+  },
+  {
+    "name": "ジャラランガ",
+    "isMega": false,
+    "single_rank": 126
+  },
+  {
+    "name": "アーマーガア",
+    "isMega": false,
+    "single_rank": 4
+  },
+  {
+    "name": "アップリュー",
+    "isMega": false,
+    "single_rank": 197
+  },
+  {
+    "name": "タルップル",
+    "isMega": false,
+    "single_rank": 183
+  },
+  {
+    "name": "サダイジャ",
+    "isMega": false,
+    "single_rank": 162
+  },
+  {
+    "name": "ポットデス",
+    "isMega": false,
+    "single_rank": 96,
+    "form": "がんさくフォルム"
+  },
+  {
+    "name": "ブリムオン",
+    "isMega": false,
+    "single_rank": 62
+  },
+  {
+    "name": "バリコオル",
+    "isMega": false,
+    "single_rank": 191
+  },
+  {
+    "name": "デスバーン",
+    "isMega": false,
+    "single_rank": 124
+  },
+  {
+    "name": "マホイップ",
+    "isMega": false,
+    "single_rank": 155,
+    "form": "ミルキィバニラ"
+  },
+  {
+    "name": "モルペコ",
+    "isMega": false,
+    "single_rank": 154,
+    "form": "まんぷくもよう"
+  },
+  {
+    "name": "ドラパルト",
+    "isMega": false,
+    "single_rank": 34
+  },
+  {
+    "name": "アヤシシ",
+    "isMega": false,
+    "single_rank": 194
+  },
+  {
+    "name": "バサギリ",
+    "isMega": false,
+    "single_rank": 56
+  },
+  {
+    "name": "イダイトウ",
+    "isMega": false,
+    "single_rank": 15,
+    "form": "オスのすがた"
+  },
+  {
+    "name": "オオニューラ",
+    "isMega": false,
+    "single_rank": 28
+  },
+  {
+    "name": "マスカーニャ",
+    "isMega": false,
+    "single_rank": 10
+  },
+  {
+    "name": "ラウドボーン",
+    "isMega": false,
+    "single_rank": 38
+  },
+  {
+    "name": "ウェーニバル",
+    "isMega": false,
+    "single_rank": 85
+  },
+  {
+    "name": "イッカネズミ",
+    "isMega": false,
+    "single_rank": 113,
+    "form": "４ひきかぞく"
+  },
+  {
+    "name": "キョジオーン",
+    "isMega": false,
+    "single_rank": 100
+  },
+  {
+    "name": "グレンアルマ",
+    "isMega": false,
+    "single_rank": 68
+  },
+  {
+    "name": "ソウブレイズ",
+    "isMega": false,
+    "single_rank": 52
+  },
+  {
+    "name": "ハラバリー",
+    "isMega": false,
+    "single_rank": 42
+  },
+  {
+    "name": "スコヴィラン",
+    "isMega": false,
+    "single_rank": 55
+  },
+  {
+    "name": "クエスパトラ",
+    "isMega": false,
+    "single_rank": 39
+  },
+  {
+    "name": "デカヌチャン",
+    "isMega": false,
+    "single_rank": 70
+  },
+  {
+    "name": "イルカマン",
+    "isMega": false,
+    "single_rank": 76,
+    "form": "ナイーブフォルム"
+  },
+  {
+    "name": "ミミズズ",
+    "isMega": false,
+    "single_rank": 80
+  },
+  {
+    "name": "キラフロル",
+    "isMega": false,
+    "single_rank": 18
+  },
+  {
+    "name": "リキキリン",
+    "isMega": false,
+    "single_rank": 160
+  },
+  {
+    "name": "ドドゲザン",
+    "isMega": false,
+    "single_rank": 12
+  },
+  {
+    "name": "ヤバソチャ",
+    "isMega": false,
+    "single_rank": 84,
+    "form": "ボンサクのすがた"
+  },
+  {
+    "name": "ブリジュラス",
+    "isMega": false,
+    "single_rank": 5
+  },
+  {
+    "name": "カミツオロチ",
+    "isMega": false,
+    "single_rank": 147
+  },
+  {
+    "name": "ロトム",
+    "isMega": false,
+    "single_rank": 16,
+    "form": "ヒートロトム"
+  },
+  {
+    "name": "ロトム",
+    "isMega": false,
+    "single_rank": 16,
+    "form": "ウォッシュロトム"
+  },
+  {
+    "name": "ロトム",
+    "isMega": false,
+    "single_rank": 16,
+    "form": "フロストロトム"
+  },
+  {
+    "name": "ロトム",
+    "isMega": false,
+    "single_rank": 16,
+    "form": "スピンロトム"
+  },
+  {
+    "name": "ロトム",
+    "isMega": false,
+    "single_rank": 16,
+    "form": "カットロトム"
+  },
+  {
+    "name": "ニャオニクス",
+    "isMega": false,
+    "single_rank": 161,
+    "form": "メスのすがた"
+  },
+  {
+    "name": "パンプジン",
+    "isMega": false,
+    "single_rank": 182,
+    "form": "ちいさいサイズ"
+  },
+  {
+    "name": "パンプジン",
+    "isMega": false,
+    "single_rank": 182,
+    "form": "おおきいサイズ"
+  },
+  {
+    "name": "パンプジン",
+    "isMega": false,
+    "single_rank": 182,
+    "form": "とくだいサイズ"
+  },
+  {
+    "name": "フシギバナ",
+    "isMega": true,
+    "single_rank": 26,
+    "form": "メガフシギバナ"
+  },
+  {
+    "name": "リザードン",
+    "isMega": true,
+    "single_rank": 3,
+    "form": "メガリザードンＸ"
+  },
+  {
+    "name": "リザードン",
+    "isMega": true,
+    "single_rank": 3,
+    "form": "メガリザードンＹ"
+  },
+  {
+    "name": "カメックス",
+    "isMega": true,
+    "single_rank": 44,
+    "form": "メガカメックス"
+  },
+  {
+    "name": "フーディン",
+    "isMega": true,
+    "single_rank": 93,
+    "form": "メガフーディン"
+  },
+  {
+    "name": "ゲンガー",
+    "isMega": true,
+    "single_rank": 6,
+    "form": "メガゲンガー"
+  },
+  {
+    "name": "ガルーラ",
+    "isMega": true,
+    "single_rank": 25,
+    "form": "メガガルーラ"
+  },
+  {
+    "name": "カイロス",
+    "isMega": true,
+    "single_rank": 109,
+    "form": "メガカイロス"
+  },
+  {
+    "name": "ギャラドス",
+    "isMega": true,
+    "single_rank": 24,
+    "form": "メガギャラドス"
+  },
+  {
+    "name": "プテラ",
+    "isMega": true,
+    "single_rank": 78,
+    "form": "メガプテラ"
+  },
+  {
+    "name": "デンリュウ",
+    "isMega": true,
+    "single_rank": 121,
+    "form": "メガデンリュウ"
+  },
+  {
+    "name": "ハッサム",
+    "isMega": true,
+    "single_rank": 8,
+    "form": "メガハッサム"
+  },
+  {
+    "name": "ヘラクロス",
+    "isMega": true,
+    "single_rank": 74,
+    "form": "メガヘラクロス"
+  },
+  {
+    "name": "ヘルガー",
+    "isMega": true,
+    "single_rank": 157,
+    "form": "メガヘルガー"
+  },
+  {
+    "name": "バンギラス",
+    "isMega": true,
+    "single_rank": 32,
+    "form": "メガバンギラス"
+  },
+  {
+    "name": "サーナイト",
+    "isMega": true,
+    "single_rank": 50,
+    "form": "メガサーナイト"
+  },
+  {
+    "name": "ボスゴドラ",
+    "isMega": true,
+    "single_rank": 82,
+    "form": "メガボスゴドラ"
+  },
+  {
+    "name": "チャーレム",
+    "isMega": true,
+    "single_rank": 128,
+    "form": "メガチャーレム"
+  },
+  {
+    "name": "ライボルト",
+    "isMega": true,
+    "single_rank": 108,
+    "form": "メガライボルト"
+  },
+  {
+    "name": "ジュペッタ",
+    "isMega": true,
+    "single_rank": 67,
+    "form": "メガジュペッタ"
+  },
+  {
+    "name": "アブソル",
+    "isMega": true,
+    "single_rank": 141,
+    "form": "メガアブソル"
+  },
+  {
+    "name": "ガブリアス",
+    "isMega": true,
+    "single_rank": 1,
+    "form": "メガガブリアス"
+  },
+  {
+    "name": "ルカリオ",
+    "isMega": true,
+    "single_rank": 21,
+    "form": "メガルカリオ"
+  },
+  {
+    "name": "ユキノオー",
+    "isMega": true,
+    "single_rank": 99,
+    "form": "メガユキノオー"
+  },
+  {
+    "name": "ヤミラミ",
+    "isMega": true,
+    "single_rank": 86,
+    "form": "メガヤミラミ"
+  },
+  {
+    "name": "チルタリス",
+    "isMega": true,
+    "single_rank": 111,
+    "form": "メガチルタリス"
+  },
+  {
+    "name": "エルレイド",
+    "isMega": true,
+    "single_rank": 58,
+    "form": "メガエルレイド"
+  },
+  {
+    "name": "タブンネ",
+    "isMega": true,
+    "single_rank": 192,
+    "form": "メガタブンネ"
+  },
+  {
+    "name": "サメハダー",
+    "isMega": true,
+    "single_rank": 90,
+    "form": "メガサメハダー"
+  },
+  {
+    "name": "ヤドラン",
+    "isMega": true,
+    "single_rank": 79,
+    "form": "メガヤドラン"
+  },
+  {
+    "name": "ハガネール",
+    "isMega": true,
+    "single_rank": 127,
+    "form": "メガハガネール"
+  },
+  {
+    "name": "ピジョット",
+    "isMega": true,
+    "single_rank": 131,
+    "form": "メガピジョット"
+  },
+  {
+    "name": "オニゴーリ",
+    "isMega": true,
+    "single_rank": 139,
+    "form": "メガオニゴーリ"
+  },
+  {
+    "name": "バクーダ",
+    "isMega": true,
+    "single_rank": 171,
+    "form": "メガバクーダ"
+  },
+  {
+    "name": "ミミロップ",
+    "isMega": true,
+    "single_rank": 13,
+    "form": "メガミミロップ"
+  },
+  {
+    "name": "スピアー",
+    "isMega": true,
+    "single_rank": 88,
+    "form": "メガスピアー"
+  },
+  {
+    "name": "ライチュウ",
+    "isMega": false,
+    "single_rank": 178,
+    "form": "アローラのすがた"
+  },
+  {
+    "name": "キュウコン",
+    "isMega": false,
+    "single_rank": 53,
+    "form": "アローラのすがた"
+  },
+  {
+    "name": "ルガルガン",
+    "isMega": false,
+    "single_rank": 103,
+    "form": "まよなかのすがた"
+  },
+  {
+    "name": "ルガルガン",
+    "isMega": false,
+    "single_rank": 103,
+    "form": "たそがれのすがた"
+  },
+  {
+    "name": "ヤドラン",
+    "isMega": false,
+    "single_rank": 79,
+    "form": "ガラルのすがた"
+  },
+  {
+    "name": "ヤドキング",
+    "isMega": false,
+    "single_rank": 66,
+    "form": "ガラルのすがた"
+  },
+  {
+    "name": "マッギョ",
+    "isMega": false,
+    "single_rank": 166,
+    "form": "ガラルのすがた"
+  },
+  {
+    "name": "ウインディ",
+    "isMega": false,
+    "single_rank": 75,
+    "form": "ヒスイのすがた"
+  },
+  {
+    "name": "バクフーン",
+    "isMega": false,
+    "single_rank": 97,
+    "form": "ヒスイのすがた"
+  },
+  {
+    "name": "ダイケンキ",
+    "isMega": false,
+    "single_rank": 65,
+    "form": "ヒスイのすがた"
+  },
+  {
+    "name": "ゾロアーク",
+    "isMega": false,
+    "single_rank": 61,
+    "form": "ヒスイのすがた"
+  },
+  {
+    "name": "ヌメルゴン",
+    "isMega": false,
+    "single_rank": 54,
+    "form": "ヒスイのすがた"
+  },
+  {
+    "name": "クレベース",
+    "isMega": false,
+    "single_rank": 137,
+    "form": "ヒスイのすがた"
+  },
+  {
+    "name": "ジュナイパー",
+    "isMega": false,
+    "single_rank": 114,
+    "form": "ヒスイのすがた"
+  },
+  {
+    "name": "イダイトウ",
+    "isMega": false,
+    "single_rank": 15,
+    "form": "メスのすがた"
+  },
+  {
+    "name": "ケンタロス",
+    "isMega": false,
+    "single_rank": 110,
+    "form": "パルデアのすがた"
+  },
+  {
+    "name": "ケンタロス",
+    "isMega": false,
+    "single_rank": 110,
+    "form": "パルデアのすがた"
+  },
+  {
+    "name": "ケンタロス",
+    "isMega": false,
+    "single_rank": 110,
+    "form": "パルデアのすがた"
+  },
+  {
+    "name": "ピクシー",
+    "isMega": true,
+    "single_rank": 31,
+    "form": "メガピクシー"
+  },
+  {
+    "name": "ウツボット",
+    "isMega": true,
+    "single_rank": 45,
+    "form": "メガウツボット"
+  },
+  {
+    "name": "スターミー",
+    "isMega": true,
+    "single_rank": 33,
+    "form": "メガスターミー"
+  },
+  {
+    "name": "カイリュー",
+    "isMega": true,
+    "single_rank": 11,
+    "form": "メガカイリュー"
+  },
+  {
+    "name": "メガニウム",
+    "isMega": true,
+    "single_rank": 22,
+    "form": "メガメガニウム"
+  },
+  {
+    "name": "オーダイル",
+    "isMega": true,
+    "single_rank": 81,
+    "form": "メガオーダイル"
+  },
+  {
+    "name": "エアームド",
+    "isMega": true,
+    "single_rank": 49,
+    "form": "メガエアームド"
+  },
+  {
+    "name": "ユキメノコ",
+    "isMega": true,
+    "single_rank": 51,
+    "form": "メガユキメノコ"
+  },
+  {
+    "name": "エンブオー",
+    "isMega": true,
+    "single_rank": 101,
+    "form": "メガエンブオー"
+  },
+  {
+    "name": "ドリュウズ",
+    "isMega": true,
+    "single_rank": 47,
+    "form": "メガドリュウズ"
+  },
+  {
+    "name": "シャンデラ",
+    "isMega": true,
+    "single_rank": 71,
+    "form": "メガシャンデラ"
+  },
+  {
+    "name": "ブリガロン",
+    "isMega": true,
+    "single_rank": 72,
+    "form": "メガブリガロン"
+  },
+  {
+    "name": "マフォクシー",
+    "isMega": true,
+    "single_rank": 19,
+    "form": "メガマフォクシー"
+  },
+  {
+    "name": "ゲッコウガ",
+    "isMega": true,
+    "single_rank": 23,
+    "form": "メガゲッコウガ"
+  },
+  {
+    "name": "ルチャブル",
+    "isMega": true,
+    "single_rank": 89,
+    "form": "メガルチャブル"
+  },
+  {
+    "name": "ジジーロン",
+    "isMega": true,
+    "single_rank": 134,
+    "form": "メガジジーロン"
+  },
+  {
+    "name": "フラエッテ",
+    "isMega": false,
+    "single_rank": 27,
+    "form": "えいえんのはな"
+  },
+  {
+    "name": "フラエッテ",
+    "isMega": true,
+    "single_rank": 27,
+    "form": "メガフラエッテ"
+  },
+  {
+    "name": "ニャオニクス",
+    "isMega": true,
+    "single_rank": 161,
+    "form": "メガニャオニクス(オス)"
+  },
+  {
+    "name": "ニャオニクス",
+    "isMega": true,
+    "single_rank": 161,
+    "form": "メガニャオニクス(メス)"
+  },
+  {
+    "name": "スコヴィラン",
+    "isMega": true,
+    "single_rank": 55,
+    "form": "メガスコヴィラン"
+  },
+  {
+    "name": "キラフロル",
+    "isMega": true,
+    "single_rank": 18,
+    "form": "メガキラフロル"
+  },
+  {
+    "name": "チリーン",
+    "isMega": true,
+    "single_rank": 98,
+    "form": "メガチリーン"
+  },
+  {
+    "name": "ゴルーグ",
+    "isMega": true,
+    "single_rank": 152,
+    "form": "メガゴルーグ"
+  },
+  {
+    "name": "ケケンカニ",
+    "isMega": true,
+    "single_rank": 87,
+    "form": "メガケケンカニ"
+  }
+]
