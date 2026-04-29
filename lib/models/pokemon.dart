@@ -1,4 +1,4 @@
-import 'base_stats.dart';
+import 'base_status.dart';
 import 'move.dart';
 
 class Pokemon {

@@ -1,3 +1,5 @@
+enum StatType { A, B, C, D, S }
+
 class BaseStats {
   final int H;
   final int A;
