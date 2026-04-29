@@ -1,7 +1,7 @@
 .dart_tool/
 build/
 note.md
-src/scripts/
+scripts/
 
 .idea/
 .metadata
